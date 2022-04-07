@@ -1,0 +1,44 @@
+
+
+Zu Koordinaten (x,y) gehen:
+    Schritt(y)
+    LinksDrehen
+    Schritt(x)
+    MarkeSetzen(color)
+    LinksDrehen
+    LinksDrehen
+    Schritt(x)
+    RechtsDrehen
+    Schritt(y)
+    LinksDrehen
+    LinksDrehen
+
+
+Farben:
+rot
+grün
+blau
+
+gelb
+schwarz
+
+
+
+=============
+Optimierung:
+===================
+
+LinksDrehen
+LinksDrehen
+-> Funktion LL
+
+MarkeSetzten
+LinksDrehen
+LinksDrehen
+
+-> Funktion MLL
+
+
+wirkung:
+unoptimiert: 1900 Zeilen
+optimiert: 1400 Lines

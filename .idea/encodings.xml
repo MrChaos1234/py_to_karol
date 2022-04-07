@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/out_donut/donut_color_output_optimized.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/out_rainbow/rainbow_color_output_optimized.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/out_walt/walt_color_output_optimized.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/rainbow2_color_output_optimized.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/rainbow_color_output_optimized.txt" charset="windows-1252" />
+    <file url="PROJECT" charset="windows-1252" />
+  </component>
+</project>
